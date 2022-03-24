@@ -2,41 +2,41 @@
     {
       "id": 1,
       "name": "Michael",
-      "email": "Student"
+      "level": "Student"
     },
     {
       "id": 2,
       "name": "Ricky",
-      "email": "Student"
+      "level": "Student"
     },
     {
       "id": 3,
       "name": "Rafa",
-      "email": "Student"
+      "level": "Student"
     },
     {
       "id": 4,
       "name": "DeVante",
-      "email": "Student"
+      "level": "Student"
     },
     {
       "id": 5,
       "name": "Adam",
-      "email": "Student"
+      "level": "Student"
     },
     {
       "id": 6,
       "name": "Oscar",
-      "email": "Student"
+      "level": "Student"
     },
     {
       "id": 7,
       "name": "Mario",
-      "email": "Student"
+      "level": "Student"
     },
     {
       "id": 8,
       "name": "Matty",
-      "email": "Student"
+      "level": "Student"
     }
   ]
